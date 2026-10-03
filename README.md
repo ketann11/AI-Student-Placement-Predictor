@@ -48,7 +48,7 @@ README.md
 ## Quick Start
 
 ```bash
-git clone https://github.com/nithu0035/Student-Placement-Prediction.git
+git clone https://github.com/ketann11/AI-Student-Placement-Predictor
 
 cd Student-Placement-Prediction
 
@@ -60,10 +60,9 @@ streamlit run app.py
 
 ## Author
 
-**Gudipatoju Nitesh**
+**Ketan**
 
-🌐 Portfolio  
-https://nithu0035.github.io/Portfolio-Website
+
 
 💼 LinkedIn  
-https://linkedin.com/in/nitesh-gudipatoju
+https://www.linkedin.com/in/ketandharurkar11/

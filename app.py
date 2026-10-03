@@ -234,6 +234,6 @@ if analyze:
 # ======================================================
 st.markdown("---")
 st.markdown(
-    "<div class='footer'>🚀 Developed by <b>Nitesh</b> · AI & ML Engineer · Academic Prototype</div>",
+    "<div class='footer'>🚀 Developed by <b>Ketan</b> · AI & ML Engineer · Academic Prototype</div>",
     unsafe_allow_html=True
 )
